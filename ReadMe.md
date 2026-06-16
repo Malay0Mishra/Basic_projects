@@ -1,2 +1,1 @@
-A BASIC INVENTORY SYSTEM USING PYTHON AND JSON.
-
+A basic Projects repo.
